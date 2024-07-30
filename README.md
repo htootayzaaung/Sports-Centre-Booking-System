@@ -39,7 +39,7 @@ After all modules are installed:
 To Test the application:<br>
 In the code directory enter the command- pytest
 
-## For SOC Linux machines:
+## For Linux machines:
 Follow the WEB APP module content.Only Section 1 content is required.<br>
 To activate your virtual environment: go to the home directory and enter the command- 'source flask/bin/activate'<br>
 When your venv is activated, go to the directory with requirements.txt file in it (inside the code directory) and type- 'pip install -m requirements.txt'<br>
